@@ -1,5 +1,4 @@
-
-# Read me:
+#KNN Implementation:
 
 ## Execution:
 
